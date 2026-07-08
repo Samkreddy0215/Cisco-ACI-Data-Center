@@ -17,3 +17,16 @@
 - BGP
 - OSPF
 - Data Center Networking
+
+## Core ACI Concepts
+
+- Fabric Architecture
+- Spine-Leaf Topology
+- Tenants
+- VRFs
+- Bridge Domains
+- Endpoint Groups (EPGs)
+- Contracts and Filters
+- L3Out Connectivity
+- Multi-Pod and Multi-Site
+- Operations and Troubleshooting
